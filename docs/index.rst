@@ -4,7 +4,7 @@ Bloom
 .. Links
 
 .. _catkin: https://github.com/ros/catkin
-.. _bloom: http://wiki.ros.org/bloom
+.. _bloom: http://ros.org/wiki/bloom
 
 What is bloom?
 --------------
